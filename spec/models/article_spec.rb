@@ -1,4 +1,4 @@
-# spec/models/article_spec.rb
+require 'rails_helper'
 RSpec.describe Article, type: :model do
     describe 'DB table' do
       it { is_expected.to have_db_column :id }
@@ -15,4 +15,3 @@ RSpec.describe Article, type: :model do
       end
     end
   end
-  
