@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+[![Coverage Status](https://coveralls.io/repos/github/blake-futchi/rails-app/badge.svg?branch=master)](https://coveralls.io/github/blake-futchi/rails-app?branch=master)
